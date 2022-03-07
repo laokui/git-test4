@@ -12,6 +12,7 @@ public class Test {
         System.out.println("hello git4");
         System.out.println("master test");
         System.out.println("hot-fix test1");
+        System.out.println("push test1");
 
     }
 }
